@@ -2,7 +2,6 @@
 #' 
 #' Defines a custom color palette.
 #' Returns a vector of RGB values.
-#' @param
 #' @keywords rgb
 #' @export
 #' @examples

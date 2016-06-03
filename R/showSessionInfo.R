@@ -1,7 +1,6 @@
 #' showSessionInfo function
 #' 
 #' Show R session information for reproducibility purposes.
-#' @param
 #' @keywords debugging trace reproducibility
 #' @export
 #' @examples
