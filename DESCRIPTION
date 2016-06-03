@@ -1,6 +1,6 @@
 Package: prepR
 Title: Prepares R Session With Commonly Used Functionality
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: person("Benjamin", "Chan", email = "chanb@ohsu.edu", role = c("aut", "cre"))
 Description: Prepares R session With commonly used functionality; mostly
     defines frequently used functions.
