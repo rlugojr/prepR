@@ -1,0 +1,11 @@
+Package: prepR
+Title: Prepares R Session With Commonly Used Functionality
+Version: 0.0.0.9000
+Authors@R: person("Benjamin", "Chan", email = "chanb@ohsu.edu", role = c("aut", "cre"))
+Description: Prepares R session With commonly used functionality; mostly
+  defines frequently used functions.
+Depends: R (>= 3.2.2)
+License: MIT License
+LazyData: true
+URL: https://github.com/benjamin-chan/prepR
+BugReports: https://github.com/benjamin-chan/prepR/issues
